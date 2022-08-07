@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @mehdiMj-ir
-- 👀 I’m interested in `GNU/Linux` world, <div title="PHP & Python!">`Programming`</div> **&&** <div title="Mikrotik!">`Networks`</div>
-- 🌱 I’m currently learning [SRE](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-- 📫 How to reach me on [Telegram](t.me/mehdiMj_ir)
+<div style="border-radius: 6px; border: 2px dashed gray; max-width: 70%; padding: 1em; margin-bottom: .4em;">
+👋 Hi, I’m mehdiMj
 
-<!---
-mehdiMj-ir/mehdiMj-ir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 I’m interested in <code>GNU/Linux</code> world, <span title="PHP & Python!"><code>Programming</code></span> <b>&&<b> <span title="Mikrotik!"><code>Networks</code></span>
+
+🌱 I’m currently practicing <a href="https://en.wikipedia.org/wiki/Sysop">SysOps</a>
+
+📫 Reach to me on <a href="https://t.me/mehdiMj_ir">Telegram</a>
